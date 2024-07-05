@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.unir</groupId>
-	<artifactId>ms-bookings</artifactId> <!-- If you change this artifactId, change it too in Dockerfile -->
+	<artifactId>bookings</artifactId> <!-- If you change this artifactId, change it too in Dockerfile -->
 	<version>0.0.1-SNAPSHOT</version>
 	<name>bookings</name>
 	<description>Straightforward archetype of Spring Microservice with Java. </description>
